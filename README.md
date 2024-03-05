@@ -3,12 +3,12 @@ An application that allow the following functionalities
 
 Write a small React JS Web application with the following functionality: 
  
-### Allow the user to enter their Name, Surname, and a Preferred Topic. Possible values for the topic are: Travel, Cars, Wildlife, Technology and Other. 
-### When ‘Other’ is selected as a topic, allow the user to enter their preferred topic in free text. 
-### Once the topic has been specified, fetch a matching image from Unsplash.com. You can use any free / opensource package or an API; for example: https://www.npmjs.com/package/unsplash-react 
-### Present the image to the user on a new view along with two buttons Accept and Reject. 
-### If the user rejects the picture, carry out another search. 
-### If the user accepts the picture, present them with a new view with a "card" displaying Name, Surname and a thumbnail of the image selected. 
+1. Allow the user to enter their Name, Surname, and a Preferred Topic. Possible values for the topic are: Travel, Cars, Wildlife, Technology and Other.
+2. When ‘Other’ is selected as a topic, allow the user to enter their preferred topic in free text.
+3. Once the topic has been specified, fetch a matching image from Unsplash.com. You can use any free / opensource package or an API; for example: https://www.npmjs.com/package/unsplash-react
+4. Present the image to the user on a new view along with two buttons Accept and Reject.
+5. If the user rejects the picture, carry out another search.
+6. If the user accepts the picture, present them with a new view with a "card" displaying Name, Surname and a thumbnail of the image selected.
 
 ## Getting Started
 
